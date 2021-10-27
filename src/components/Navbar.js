@@ -12,7 +12,7 @@ const NavBar = () => {
         <Reactbootstrap.Navbar.Collapse id="responsive-navbar-nav">
           <Reactbootstrap.Nav className="mr-auto">
             <Reactbootstrap.Nav.Link href="#Home">Home</Reactbootstrap.Nav.Link>
-            <Reactbootstrap.Nav.Link href="http://demonstrationsites.freecluster.eu/P-html%20test/">Contact</Reactbootstrap.Nav.Link>
+            <Reactbootstrap.Nav.Link href="https://portfolio.nathanwebsites.com/Port-contact/">Contact</Reactbootstrap.Nav.Link>
 
           </Reactbootstrap.Nav>
 
