@@ -13,19 +13,19 @@ const dataSlider = [
     id: uuidv4(),
     title: <h5>Theme Context Application</h5>,
     subTitle: <h6>This is a single page demo site.</h6> ,
-    CapTion: <a href="https://themecontext.netlify.app/" target="blank" >    Portfolio Demonstration Site"</a> 
+    CapTion: <a href="https://themecontext.netlify.app/" target="blank" >    Portfolio Demonstration Site</a> 
   },
   {
     id: uuidv4(),
     title: <h5>Book Context Application</h5>,
     subTitle: <h6>This is a single page demo site.</h6>,
-    CapTion:  <a href="https://bookcontext.netlify.app/" target="blank" >  "Portfolio Demonstration Site"</a> 
+    CapTion:  <a href="https://bookcontext.netlify.app/" target="blank" >  Portfolio Demonstration Site</a> 
 
   },
   {
     id: uuidv4(),
     title: <h5>Demonstration Music Promotion Site</h5>,
-    CapTion:  <a href="https://nathanwebsites.com/" target="blank" >"Portfolio Demonstration Site"</a>
+    CapTion:  <a href="https://nathanwebsites.com/" target="blank" >Portfolio Demonstration Site</a>
   },
 
   {
