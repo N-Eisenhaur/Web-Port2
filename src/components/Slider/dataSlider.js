@@ -4,9 +4,9 @@ const dataSlider = [
  
   {
     id: uuidv4(),
-    title: <h5>Demonstration Vitamin Drink Site</h5>,
-    subTitle: <h6>This is a single page demo site.</h6> ,
-    CapTion: <a href="https://vitaminstore.netlify.app/" target="blank">Portfolio Demonstration Site</a>
+    title: <h5>Demonstration Weather Api Site</h5>,
+    subTitle: <h6>This is a single page demo site.<br></br> <br></br>Click on the arrows to see screenshots of other sites.</h6> ,
+    CapTion: <a href="https://weatherapione.netlify.app" target="blank">Portfolio Demonstration Site</a>
 
   },
   {
